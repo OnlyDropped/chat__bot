@@ -142,3 +142,81 @@
   bottom: -301px;
   right: 555px;
 }
+.content__description-arrow {
+  position: absolute;
+  bottom: -341px;
+  left: 473px;
+}
+.content__description-frame {
+  position: absolute;
+  bottom: -236px;
+  left: 569px;
+}
+.post__inner {
+  display: flex;
+  margin-left: 48px;
+  margin-top: -130px;
+}
+.post__text {
+  padding-top: 94px;
+}
+.post__text-title {
+  width: 459px;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 47px;
+  color: #1c252b;
+  margin-bottom: 40px;
+}
+.menu__list-item {
+  padding-left: 50px;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 124.7%;
+  color: #3a4d57;
+  margin-bottom: 30px;
+  position: relative;
+}
+.menu__list-item::before {
+  position: absolute;
+  content: url("../img/galka.svg");
+  top: 0px;
+  left: 0px;
+}
+.note {
+  background-image: url("../img/post-bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 179px;
+  padding-left: 57px;
+  padding-bottom: 252px;
+}
+.post__content-title {
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 47px;
+  color: #1c252b;
+  margin-bottom: 56px;
+}
+.post__content-text {
+  width: 558px;
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #3a4d57;
+  padding: 6px 19px 11px 25px;
+  background: #ffffff;
+  box-shadow: 0px 0px 12px rgba(63, 146, 209, 0.29);
+  border-radius: 6px;
+  margin-bottom: 13px;
+  position: relative;
+}
+.post__content-img {
+  position: absolute;
+  bottom: -1314px;
+  left: 88px;
+}
