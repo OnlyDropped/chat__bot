@@ -38,14 +38,14 @@
     content: url("../img/adaptive/russia.svg");
     z-index: 71;
     top: 144px;
-    right: 34px;
+    right: 0px;
   }
   .header__text-description::before {
     position: absolute;
     content: url("../img/adaptive/greatbritain.svg");
     z-index: 71;
     top: 179px;
-    right: 50px;
+    right: 13px;
   }
   .header__inner .menu__text {
     margin-left: 0px;
@@ -69,14 +69,14 @@
   .menu__text::after {
     position: absolute;
     content: url("../img/adaptive/ellipse.svg");
-    right: -46px;
+    right: -80px;
     bottom: -62px;
     z-index: -25;
   }
   .menu__text::before {
     position: absolute;
     content: url("../img/adaptive/phone.svg");
-    right: -46px;
+    right: -80px;
     z-index: 25;
     top: -54px;
   }
