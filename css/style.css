@@ -62,6 +62,12 @@
 .menu__text-item {
   margin-right: 50px;
 }
+.menu__text-link-mobile{
+  display: none;
+}
+.menu__text-link-mobile{
+  display: none;
+}
 .menu__text-item:last-child {
   margin-right: 0px;
 }
