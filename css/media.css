@@ -80,4 +80,37 @@
     z-index: 25;
     top: -54px;
   }
+  .content {
+    background-image: url("../img/adaptive/content-bg.svg");
+    margin-top: -100px;
+    background-size: cover;
+    padding-top: 55px;
+  }
+  .content__text {
+    width: 275px;
+    font-size: 14px;
+    line-height: 150%;
+    padding: 20px 20px 22px 20px;
+    margin-left: 27px;
+    margin-bottom: 70px;
+  }
+  .content__text-img {
+    position: absolute;
+    bottom: -25px;
+  }
+  .content__description {
+    width: 275px;
+    font-size: 14px;
+    line-height: 140%;
+    padding: 21px 15px 30px 20px;
+    margin-left: 27px;
+  }
+  .content__description-arrow {
+    bottom: -208px;
+    left: 78px;
+  }
+  .content__description-frame {
+    bottom: -189px;
+    left: 195px;
+  }
 }
